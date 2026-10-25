@@ -1,0 +1,3 @@
+# Los scripts de la capa determinista deben conservar LF: un checkout con
+# autocrlf convierte el shebang a CRLF y el hook deja de ejecutarse.
+docs/workboard/hooks/* text eol=lf

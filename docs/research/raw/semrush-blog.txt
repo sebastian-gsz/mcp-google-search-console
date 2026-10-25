@@ -1,0 +1,52 @@
+FUENTE: semrush-blog
+FEED: https://www.semrush.com/blog/feed/
+
+## How to do an SEO audit with Claude & the Semrush MCP
+URL: https://www.semrush.com/blog/semrush-seo-audit-with-claude/
+FECHA: Thu, 15 Oct 2026 12:32:00 +0000
+RESUMEN: <p>Scan your website in Site Audit, connect Semrush’s MCP to Claude, and have Claude analyze the audit data.</p>
+
+## How to build an AI visibility dashboard with Semrush
+URL: https://www.semrush.com/blog/how-to-build-an-ai-visibility-dashboard-semrush/
+FECHA: Mon, 12 Oct 2026 09:45:00 +0000
+RESUMEN: <p>Learn how to build an AI visibility dashboard that shows whether the pages AI cites are the ones earning Google clicks.</p>
+
+## 4 types of keywords in SEO (+ examples)
+URL: https://www.semrush.com/blog/types-of-keywords-commercial-informational-navigational-transactional/
+FECHA: Fri, 09 Oct 2026 09:10:00 +0000
+RESUMEN: <p><img src="https://static.semrush.com/blog/uploads/media/31/1a/311ac3a90abd1aa56dd6151135a28c7a/types-of-keywords.svg" alt="4 types of keywords in SEO (+ examples)" width="448"/></p><p>Learn the four types of keywords in SEO and how to optimize your content to rank for each type of keyword.</p>
+
+## How to track your AI citations and sources with Semrush
+URL: https://www.semrush.com/blog/track-ai-citation-sources-semrush/
+FECHA: Wed, 07 Oct 2026 12:01:00 +0000
+RESUMEN: <p>Find the sources that are cited when your brand is missing from AI answers and take action with content or outreach to get more mentions.</p>
+
+## Multi-location SEO: How to build a scalable strategy
+URL: https://www.semrush.com/blog/multi-location-seo/
+FECHA: Wed, 07 Oct 2026 09:39:00 +0000
+RESUMEN: <p>Multi-location SEO starts with one approved record per branch that feeds its page, Google Business Profile, schema, and listings.</p>
+
+## Google AI Overviews now appear for most major brands
+URL: https://www.semrush.com/blog/ai-overviews-appearing-for-major-brands/
+FECHA: Tue, 06 Oct 2026 09:06:00 +0000
+RESUMEN: <p>Google AI Overviews now appear for more than 80% of the branded queries DemandSphere tracks, up from 26% on Sept. 1. Google hasn‘t explained why.</p>
+
+## Local SEO: What is it & how to do it
+URL: https://www.semrush.com/blog/what-is-local-seo/
+FECHA: Mon, 05 Oct 2026 12:51:00 +0000
+RESUMEN: <p><img src="https://static.semrush.com/blog/uploads/media/67/72/6772a03f9d3d8fdf7943631edbb7c571/what-is-local-seo.svg" alt="Local SEO: What is it & how to do it" width="448"/></p><p>Local SEO is the process of improving search visibility, traffic, and brand awareness for local businesses.</p>
+
+## Ultimate SEO checklist: 43 tips to optimize your website
+URL: https://www.semrush.com/blog/seo-checklist/
+FECHA: Thu, 01 Oct 2026 08:25:00 +0000
+RESUMEN: <p><img src="https://static.semrush.com/blog/uploads/media/39/5a/395a116af769df4705d4cc21956da66e/seo-checklist.svg" alt="Ultimate SEO checklist: 43 tips to optimize your website" width="448"/></p><p>Use this SEO checklist to optimize your site for both Google and AI-driven search results.</p>
+
+## AEO vs SEO: core differences & how to win visibility in both
+URL: https://www.semrush.com/blog/aeo-vs-seo/
+FECHA: Wed, 30 Sep 2026 08:36:00 +0000
+RESUMEN: <p><img src="https://static.semrush.com/blog/uploads/media/52/33/5233b9271d0df06a6511553eca42cd52/c681436b93bf97216efff902fa3405c1/aeo-vs-seo.svg" alt="AEO vs SEO: core differences & how to win visibility in both" width="448"/></p><p>Discover the key differences between SEO and AEO. Learn how each works, where they overlap, and practical strategies to win visibility in both.</p>
+
+## The LLM positioning lag: What it is and how to avoid it
+URL: https://www.semrush.com/blog/llm-positioning-lag/
+FECHA: Tue, 29 Sep 2026 14:50:00 +0000
+RESUMEN: <p>See why LLMs get your brand positioning wrong and how to fix it.</p>

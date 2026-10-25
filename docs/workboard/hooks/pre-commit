@@ -1,0 +1,31 @@
+#!/bin/sh
+# pre-commit — capa determinista del workboard
+# Principio (tip 38 del corpus): lo consultivo vive en los contratos (~80%);
+# lo que debe pasar SIEMPRE se mecaniza aquí (100%).
+# Instalación: git config core.hooksPath docs/workboard/hooks
+# Desinstalar: git config --unset core.hooksPath
+
+set -u
+
+ROOT=$(git rev-parse --show-toplevel)
+HDIR=$(cd "$(dirname "$0")" && pwd)
+WB=$(cd "$HDIR/.." && pwd)
+
+# 1) Verificador del workboard — solo si el nodo está montado (tiene items/)
+if [ -d "$WB/items" ] && command -v node >/dev/null 2>&1; then
+  node "$WB/verify-workboard.mjs" "$WB" || exit 1
+fi
+
+# 2) Higiene: worktrees/ y .env jamás se commitean (§5.1, principio 10)
+if git diff --cached --name-only | grep -qE '(^|/)worktrees/|(^|/)\.env$'; then
+  echo "BLOQUEADO: el commit contiene worktrees/ o .env (contrato §5.1)" >&2
+  exit 1
+fi
+
+# 3) Secretos obvios en el diff (best-effort; el grep exhaustivo es parte de la verificación del montaje)
+if git diff --cached -U0 | grep -qE 'sk-[A-Za-z0-9]{20,}|ghp_[A-Za-z0-9]{36}|github_pat_[A-Za-z0-9_]{20,}|AKIA[0-9A-Z]{16}|xox[baprs]-[A-Za-z0-9-]{10,}|-----BEGIN [A-Z ]*PRIVATE KEY-----'; then
+  echo "BLOQUEADO: posible secreto en el diff (principio 10)" >&2
+  exit 1
+fi
+
+exit 0

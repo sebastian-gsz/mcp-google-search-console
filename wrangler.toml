@@ -1,0 +1,12 @@
+name = "mcp-server-gsc"
+main = "src/entrypoints/worker.ts"
+compatibility_date = "2026-04-12"
+
+# Esto permite que Hono y el SDK de MCP funcionen con estándares web
+compatibility_flags = [ "nodejs_compat" ]
+
+[vars]
+# Define aquí el origen de CORS si quieres restringirlo
+CORS_ORIGIN = "*"
+
+# IMPORTANTE: No pongas GOOGLE_CREDENTIALS aquí por seguridad.

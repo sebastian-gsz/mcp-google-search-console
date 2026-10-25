@@ -1,0 +1,52 @@
+FUENTE: ahrefs-blog
+FEED: https://ahrefs.com/blog/feed/
+
+## How to Automate Content Creation: A Follow-Along Guide
+URL: https://ahrefs.com/blog/automated-content-creation/
+FECHA: Fri, 16 Oct 2026 09:21:11 +0000
+RESUMEN: When people hear “automated content creation”, I imagine they picture something like this: Enter a keyword, click a button, and poof! An article is made. From there, they’ll generate 500 articles before the day ends and publish all of them. &#8230; Read more &#8250;
+
+## How ChatGPT Does Query Fan-Out (15 Million Queries Studied)
+URL: https://ahrefs.com/blog/query-fan-out-chatgpt/
+FECHA: Mon, 12 Oct 2026 08:55:12 +0000
+RESUMEN: We wanted to see for ourselves how ChatGPT retrieves information—and what that means for AI visibility—so we analyzed 66.6 million free, logged-out GPT-5.6 Luna responses and their 15 million fan-out queries from August and September. 14.4% of the 66.6 million &#8230; Read more &#8250;
+
+## How to Measure AI Search Visibility When Attribution Falls Short
+URL: https://ahrefs.com/blog/how-to-measure-ai-search-visibility/
+FECHA: Tue, 06 Oct 2026 16:00:29 +0000
+RESUMEN: That puts AI ahead of YouTube as a source of signups, and second only to Google. If we’d relied on our referral traffic alone, we’d have badly undersold it. Most AI influence happens out of sight. A buyer can read &#8230; Read more &#8250;
+
+## AI Search ROI Is Messy. Here’s How to Measure It Anyway
+URL: https://ahrefs.com/blog/ai-search-roi/
+FECHA: Tue, 06 Oct 2026 15:51:29 +0000
+RESUMEN: Forrester found 94% of business buyers now use AI search when buying, rating it above vendor websites, product experts, and sales reps. B2C isn’t far behind: NielsenIQ puts it at 42% of consumers researching products with AI. That’s why bigger &#8230; Read more &#8250;
+
+## AI Overviews Currently Appear for 83% of Branded Searches
+URL: https://ahrefs.com/blog/ai-overviews-on-branded-searches/
+FECHA: Fri, 02 Oct 2026 11:33:46 +0000
+RESUMEN: That prompted us to investigate AI Overviews for branded searches on a larger scale. We found that AI Overviews now appear for 83% of branded queries, potentially reducing clicks to brands’ own websites and giving third-party sources like Wikipedia, YouTube &#8230; Read more &#8250;
+
+## SEO for Static Sites: 8 Problems to Watch For
+URL: https://ahrefs.com/blog/seo-for-static-sites/
+FECHA: Thu, 01 Oct 2026 14:57:42 +0000
+RESUMEN: But easier to build doesn’t necessarily mean easier to optimize. WordPress and other CMSs quietly handle many SEO basics through plugins and built-in functionality, from canonicals and sitemaps to redirects, metadata, schema, and 404 handling. With a static site, much &#8230; Read more &#8250;
+
+## 69% of Marketers Are Publishing More AI Content Than Last Year (New Research Report)
+URL: https://ahrefs.com/blog/marketers-ai-content-creation/
+FECHA: Wed, 30 Sep 2026 15:56:21 +0000
+RESUMEN: 301 respondents shared what they’re using AI for, how it affects their productivity, their favorite tools, and more. AI use in content creation is almost ubiquitous, with 93% of respondents saying they utilize it Claude is the most-used model for &#8230; Read more &#8250;
+
+## AI Visibility Data Paralysis: How to Get Unstuck
+URL: https://ahrefs.com/blog/ai-visibility-workflow/
+FECHA: Wed, 30 Sep 2026 15:42:56 +0000
+RESUMEN: Your brand might be missing from important conversations, losing recommendations to competitors, associated with the wrong topics, or described using outdated information. AI assistants may even struggle to access your content in the first place. Each of these problems needs &#8230; Read more &#8250;
+
+## Claude Code for SEO: 35 Use Cases
+URL: https://ahrefs.com/blog/claude-code-for-seo/
+FECHA: Wed, 30 Sep 2026 15:35:57 +0000
+RESUMEN: 35 practical ways to use Claude Code for SEO, from content briefs and Search Console analysis to internal linking and technical fixes, with real examples. Read more &#8250;
+
+## How to Optimize for AI Search: A Guide for You and Your AI Agent
+URL: https://ahrefs.com/blog/how-to-optimize-for-ai-search/
+FECHA: Fri, 25 Sep 2026 13:48:53 +0000
+RESUMEN: It might sound like a completely new discipline. For the most part, it isn’t. Google says its AI search features still rely on its core search systems. Your content still needs to be crawlable, indexable, and useful. Microsoft says that &#8230; Read more &#8250;

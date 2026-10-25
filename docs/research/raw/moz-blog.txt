@@ -1,0 +1,52 @@
+FUENTE: moz-blog
+FEED: https://moz.com/blog/feed
+
+## Cannibalization
+URL: https://feedpress.me/link/9375/14757949/cannibalization
+FECHA: Fri, 17 Sep 2021 00:00:00 -0700
+RESUMEN: In today's episode of Whiteboard Friday, Moz SEO expert Tom Capper walks you through cannibalization: what it is, how to identify it, and how to fix it.
+
+## Tackling 8,000 Title Tag Rewrites: A Case Study
+URL: https://feedpress.me/link/9375/14753388/title-tag-rewrite-case-study
+FECHA: Thu, 16 Sep 2021 00:00:00 -0700
+RESUMEN: Let's take an in-depth look at Moz.com title tags that were re-written by Google, including three case studies where we managed to fix bad rewrites.
+
+## How Our Website Conversion Strategy Increased Business Inquiries by 37%
+URL: https://feedpress.me/link/9375/14751225/website-conversion-case-study
+FECHA: Wed, 15 Sep 2021 00:00:00 -0700
+RESUMEN: See how, through several little tweaks to their conversion strategy, the team at Chromatix attracted a higher tier of customers, more inquiries, plus over $780,000 worth of new sales opportunities.
+
+## How to Add Products to Your Google My Business Listing, Illustrated
+URL: https://feedpress.me/link/9375/14746944/add-products-to-gmb-listing
+FECHA: Mon, 13 Sep 2021 00:00:00 -0700
+RESUMEN: Miriam helps you get started in Google My Business Products with this illustrated tutorial, walking you through how to add your most important products and services.
+
+## The Three Bosses of SEO
+URL: https://feedpress.me/link/9375/14742542/three-seo-bosses
+FECHA: Fri, 10 Sep 2021 00:00:00 -0700
+RESUMEN: In SEO, there are three main “bosses” with different needs: your business, your searchers, and your search engines. How do you answer to all of them?
+
+## Winning the Page Speed Race: How to Turn Your Clunker of a Website Into a Race Car
+URL: https://feedpress.me/link/9375/14737629/winning-page-speed
+FECHA: Wed, 08 Sep 2021 00:00:00 -0700
+RESUMEN: Winning the page speed race requires the same things as winning a car race: making sure that your vehicle is as lightweight as possible, as powerful as possible, and that you navigate the racetrack as efficiently as possible.
+
+## Responsive Search Ads: 5 Best Practices for Google Ads PPC Search Campaigns
+URL: https://feedpress.me/link/9375/14735616/5-google-ads-ppc-best-practices
+FECHA: Tue, 07 Sep 2021 00:00:00 -0700
+RESUMEN: These tips will help you optimize your responsive search ads in your Google Ads search campaigns, and increase clicks and conversions.
+
+## How to Calculate Your SEO ROI Using Google Analytics
+URL: https://feedpress.me/link/9375/14733670/calculate-seo-roi-with-google-analytics
+FECHA: Mon, 06 Sep 2021 00:00:00 -0700
+RESUMEN: Measuring ROI for your SEO efforts involves two factors: KPIs and the cost of your current SEO campaigns. With GA, you can pinpoint where your audience is coming from, set goals to stay on track, and incorporate the most attractive keywords to rank better in search engines.
+
+## How to Use STAT to Find SEO Opportunities at Scale
+URL: https://feedpress.me/link/9375/14729254/find-seo-opportunities-with-stat
+FECHA: Fri, 03 Sep 2021 00:00:00 -0700
+RESUMEN: Today, Cyrus explains how powerful STAT can be when you’re trying to discover SEO opportunities on a massive scale.
+
+## The Guide to Targeted-Impact Link Building
+URL: https://feedpress.me/link/9375/14723651/targeted-impact-link-building-guide
+FECHA: Wed, 01 Sep 2021 00:00:00 -0700
+RESUMEN: Links drive rankings — that’s one thing that SEOs and marketers can agree on. But which rankings, and for which pages on your website? Use this guide to build links that impact rankings for specific pages on your website.

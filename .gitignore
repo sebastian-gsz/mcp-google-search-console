@@ -1,0 +1,16 @@
+# Dependencias y build
+node_modules/
+dist/
+
+# Aislamiento multiagente (contrato del workboard §5.1)
+worktrees/
+
+# Secretos y credenciales (principio 10 — jamás se commitean)
+.env
+.env.*
+credentials.json
+
+# Salidas locales y logs
+*.log
+coverage/
+.nyc_output/

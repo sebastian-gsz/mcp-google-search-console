@@ -1,0 +1,25 @@
+# Configuración de pnpm (desde pnpm 10/12 este archivo es el hogar de las
+# settings que antes vivían en el campo "pnpm" de package.json).
+# Repo de paquete único: sin clave "packages", el cwd es el único proyecto.
+
+# Fork local de buffer-equal-constant-time (ver patches/ARCHITECTURE.md).
+# El campo "overrides" de npm en package.json cubre a npm; este cubre a pnpm.
+overrides:
+  buffer-equal-constant-time: file:./patches/buffer-equal-constant-time
+  # Pin de seguridad (OPS-004): miniflare/wrangler fijan 7.29.1 (vulnerable a
+  # GHSA-4qv8-2p9j-2685, GHSA-f72v-6w45-q472 y GHSA-xjj6-f33q-929c, rango
+  # 7.0.0–7.30.0). La 7.30.1 es el fix en la línea 7.x — intra-major.
+  undici: 7.30.1
+
+# Política de builds (sintaxis pnpm ≥ 10.26 — el antiguo ignoredBuiltDependencies
+# ya no se lee): denegación EXPLÍCITA de scripts de build para esbuild/sharp/
+# workerd — publican binarios precompilados por plataforma (@esbuild/*, @img/*,
+# workerd) y el Dockerfile ya instalaba con --ignore-scripts. Decisión: OPS-003,
+# re-declarada con la sintaxis correcta en OPS-009.
+allowBuilds:
+  esbuild: false
+  sharp: false
+  workerd: false
+
+minimumReleaseAgeExclude:
+  - hono@4.13.14

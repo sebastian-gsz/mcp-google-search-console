@@ -1,0 +1,77 @@
+FUENTE: search-engine-journal
+FEED: https://www.searchenginejournal.com/feed/
+
+## Your Audience Uses AI But Doesn’t Trust It – Build Content For The Gap via @sejournal, @gregjarboe
+URL: https://www.searchenginejournal.com/your-audience-uses-ai-but-doesnt-trust-it-build-content-for-the-gap/592818/
+FECHA: Tue, 20 Oct 2026 19:00:30 +0000
+RESUMEN: Build an SEO and content strategy for audiences who use AI but distrust it, with clearer sourcing, audience segmentation, and honest product limits. The post Your Audience Uses AI But Doesn’t Trust It – Build Content For The Gap appeared first on Search Engine Journal .
+
+## ChatGPT Search Can Draw On More Pages After A Cloudflare Pilot via @sejournal, @MattGSouthern
+URL: https://www.searchenginejournal.com/chatgpt-search-can-draw-on-more-pages-after-a-cloudflare-pilot/593720/
+FECHA: Tue, 20 Oct 2026 15:00:36 +0000
+RESUMEN: Cloudflare says its network signals helped OpenAI index hundreds of millions of new pages for ChatGPT search. The post ChatGPT Search Can Draw On More Pages After A Cloudflare Pilot appeared first on Search Engine Journal .
+
+## Regain Control Of Google Ads: Better Tracking, Clearer Proof Of ROI via @sejournal, @CallRail
+URL: https://www.searchenginejournal.com/rundowns/regain-control-of-google-ads-better-tracking-clearer-proof-of-roi/
+FECHA: Tue, 20 Oct 2026 14:17:07 +0000
+RESUMEN: Regain control of Google Ads with a curated article stack on lead quality, Local Services Ads migration, Smart Bidding goals, and proving PPC business value. The post Regain Control Of Google Ads: Better Tracking, Clearer Proof Of ROI appeared first on Search Engine Journal .
+
+## I Tested DeepSeek’s New Search Api, Here’s How It Ranks And Scores Websites via @sejournal, @suganthan
+URL: https://www.searchenginejournal.com/i-tested-deepseeks-new-search-api-heres-how-it-ranks-and-scores-websites/593408/
+FECHA: Tue, 20 Oct 2026 14:00:13 +0000
+RESUMEN: DeepSeek’s date filters dropped every undated page, 11% of results. Six practical checks for SEOs testing the new Search API, from localization to logs. The post I Tested DeepSeek’s New Search Api, Here’s How It Ranks And Scores Websites appeared first on Search Engine Journal .
+
+## What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO via @sejournal, @slobodanmanic
+URL: https://www.searchenginejournal.com/personal-ai-agents-meta-muse-openai-dots-seo/592530/
+FECHA: Tue, 20 Oct 2026 12:00:04 +0000
+RESUMEN: Meta's Muse and OpenAI's dots reach websites through connectors or cloud browsers, changing what robots.txt, on-page SEO, and analytics can tell you. The post What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO appeared first on Search Engine Journal .
+
+## Search Share Fell To 12% For North American Publishers: Chartbeat via @sejournal, @MattGSouthern
+URL: https://www.searchenginejournal.com/chartbeat-search-share-north-american-publishers-q3-2026/593673/
+FECHA: Tue, 20 Oct 2026 08:00:00 +0000
+RESUMEN: Search's share of North American publisher pageviews fell to 12%, but a lower share alone doesn't show fewer search pageviews. The post Search Share Fell To 12% For North American Publishers: Chartbeat appeared first on Search Engine Journal .
+
+## A New Place To Look: Where Your Next AI Citations &#038; Clicks Come From via @sejournal, @hethr_campbell
+URL: https://www.searchenginejournal.com/where-your-next-ai-citations-clicks-come-from/592892/
+FECHA: Tue, 20 Oct 2026 07:45:18 +0000
+RESUMEN: CTM’s Lisa Salvatore and Brian Barranger show how to mine customer conversations for useful content, qualified-lead criteria, conversion feedback, and product-demand signals. The post A New Place To Look: Where Your Next AI Citations &#038; Clicks Come From appeared first on Search Engine Journal .
+
+## Meta Drops Training From Its Crawl Clause And Keeps The Crawl via @sejournal, @MattGSouthern
+URL: https://www.searchenginejournal.com/meta-removes-training-crawl-clause-commercial-terms/593584/
+FECHA: Mon, 19 Oct 2026 18:30:50 +0000
+RESUMEN: Meta removed training from the crawling clause in its upcoming Commercial Terms. The permission to crawl sites tied to business users is still in place. The post Meta Drops Training From Its Crawl Clause And Keeps The Crawl appeared first on Search Engine Journal .
+
+## B2B Lead Generation: How To Choose Your 2027 Marketing Channels [Webinar] via @sejournal, @hethr_campbell
+URL: https://www.searchenginejournal.com/b2b-lead-generation-how-to-choose-your-2027-marketing-channels-webinar/593589/
+FECHA: Mon, 19 Oct 2026 18:28:32 +0000
+RESUMEN: Learn how to choose B2B marketing channels, fund a trial campaign and measure results with CallRail and Matter Made on October 29. The post B2B Lead Generation: How To Choose Your 2027 Marketing Channels [Webinar] appeared first on Search Engine Journal .
+
+## DeepSeek Opens Its In-House Search Engine To Developers via @sejournal, @MattGSouthern
+URL: https://www.searchenginejournal.com/deepseek-opens-its-in-house-search-engine-to-developers/593526/
+FECHA: Mon, 19 Oct 2026 15:02:15 +0000
+RESUMEN: A Chinese AI lab opened its search engine to developers. Each result carries a page-level authority tier, and DeepSeek says it filters GEO manipulation. The post DeepSeek Opens Its In-House Search Engine To Developers appeared first on Search Engine Journal .
+
+## It Knew Every Word via @sejournal, @pedrodias
+URL: https://www.searchenginejournal.com/it-knew-every-word/592680/
+FECHA: Mon, 19 Oct 2026 14:00:20 +0000
+RESUMEN: A model can recite your brand’s description and still fail the buyer’s question. Research on training data shows why “knowing” is the hard part. The post It Knew Every Word appeared first on Search Engine Journal .
+
+## AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds via @sejournal, @MattGSouthern
+URL: https://www.searchenginejournal.com/ai-search-tools-cited-a-made-up-concept-within-a-week-paper-finds/593472/
+FECHA: Mon, 19 Oct 2026 13:34:28 +0000
+RESUMEN: Researchers posted about a made-up concept on sites AI search tools cite. Four English-web tools cited it within a week. Other topics mostly didn't land. The post AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds appeared first on Search Engine Journal .
+
+## The New Rules Of Journalist Outreach, Based On Millions Of Emails
+URL: https://www.searchenginejournal.com/the-new-rules-of-journalist-outreach-based-on-millions-of-emails/592060/
+FECHA: Mon, 19 Oct 2026 12:00:45 +0000
+RESUMEN: Get journalist outreach pitches seen and understood with relevant targeting, authenticated domains, concrete subject lines, and clear openings that shape AI inbox summaries. The post The New Rules Of Journalist Outreach, Based On Millions Of Emails appeared first on Search Engine Journal .
+
+## OpenAI&#8217;s API Only Partly Matched ChatGPT&#8217;s Citations, Paper Finds via @sejournal, @MattGSouthern
+URL: https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/
+FECHA: Sun, 18 Oct 2026 08:00:00 +0000
+RESUMEN: A paper tested whether Google results and OpenAI's API can stand in for ChatGPT's citations. They matched cited sites more often than the exact pages. The post OpenAI&#8217;s API Only Partly Matched ChatGPT&#8217;s Citations, Paper Finds appeared first on Search Engine Journal .
+
+## Google&#8217;s Indexing API Docs No Longer Explain How To Get Approval via @sejournal, @MattGSouthern
+URL: https://www.searchenginejournal.com/google-indexing-api-docs-approval-form-removed/593292/
+FECHA: Sat, 17 Oct 2026 18:15:44 +0000
+RESUMEN: Google removed the Indexing API approval form and steps from its docs. Default quotas are listed, but the pages don't say how to request more. The post Google&#8217;s Indexing API Docs No Longer Explain How To Get Approval appeared first on Search Engine Journal .

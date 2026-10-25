@@ -1,0 +1,51 @@
+{
+  "name": "mcp-server-gsc",
+  "version": "1.0.1",
+  "description": "Servidor de protocolo de contexto de modelo mejorado para Google Search Console con límite de 25 000 filas, filtros de expresiones regulares y detección automática de resultados rápidos.",
+  "author": "J. Sebastián G. Sánchez <unternehmer@luxsovereign.onmicrosoft.com>",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "mcp-server-gsc": "dist/entrypoints/stdio.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc && shx chmod +x dist/entrypoints/*.js",
+    "prepare": "npm run build",
+    "watch": "tsc --watch",
+    "start:stdio": "node dist/entrypoints/stdio.js",
+    "start:ibm": "node dist/entrypoints/server-http.js",
+    "test": "tsx --test src/lib/gsc/analytics.test.ts src/lib/gsc/quickwins.test.ts",
+    "test:types": "tsc -p tsconfig.test.json",
+    "dev:stdio": "tsx src/entrypoints/stdio.ts",
+    "dev:ibm": "tsx src/entrypoints/server-http.ts",
+    "dev:remote": "wrangler dev src/entrypoints/worker.ts",
+    "deploy": "wrangler deploy src/entrypoints/worker.ts"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@google-cloud/local-auth": "^3.0.1",
+    "@hono/mcp": "^0.2.3",
+    "@hono/node-server": "^2.1.5",
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "google-auth-library": "^9.15.0",
+    "googleapis": "^146.0.0",
+    "hono": "4.13.14",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "shx": "^0.3.4",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "wrangler": "^4.152.0"
+  },
+  "overrides": {
+    "buffer-equal-constant-time": "file:./patches/buffer-equal-constant-time",
+    "undici": "7.30.1"
+  }
+}

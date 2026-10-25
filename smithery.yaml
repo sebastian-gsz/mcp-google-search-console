@@ -1,0 +1,17 @@
+# Archivo de configuración de la herrería: https://smithery.ai/docs/config#smitheryyaml
+
+startCommand:
+  type: stdio
+  configSchema:
+    # Esquema JSON que define las opciones de configuración para el MCP.
+    type: object
+    required:
+      - googleCredentialsPath
+    properties:
+      googleCredentialsPath:
+        type: string
+        description: Ruta al archivo JSON con las credenciales de la cuenta de servicio de Google Cloud.
+  commandFunction:
+    # Una función que genera el comando CLI para iniciar el MCP en stdio.
+    |-
+    config => ({command: 'node', args: ['dist/entrypoints/stdio.js'], env: {GOOGLE_APPLICATION_CREDENTIALS: config.googleCredentialsPath}})
